@@ -22,5 +22,5 @@
   <a href="https://www.linkedin.com/in/rafaeldias0934/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/Rafaeldias0934/Rafaeldias0934/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaeldias0934/rafaeldias0934/blob/output/github-contribution-grid-snake.svg)
 
