@@ -38,7 +38,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Rafaeldias0934/Rafaeldias0934/output/snake.svg" alt="Snake animation" />
+<h2 align="left">Social Media</h2>
 
 ###
 
