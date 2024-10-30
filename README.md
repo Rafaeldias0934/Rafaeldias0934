@@ -1,26 +1,11 @@
-### Opa, Eu sou o Rafael Dias!!
+<h2 align="left">Stats</h2>
 
- <div>
-  <a href="https://github.com/Rafaeldias0934">
-  <img height="170em" width="425" src="https://github-readme-stats.vercel.app/api?username=Rafaeldias0934&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" width="425" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaeldias0934&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-</div>
-  
-  ##
-  
-  <div> 
-  <a href = "mailto:rafaeldias0934@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaeldias0934/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafaeldias0934&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafaeldias0934&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafaeldias0934&radius=16&theme=vue&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
- ![Snake animation](https://github.com/Rafaeldias0934/Rafaeldias0934/blob/output/github-contribution-grid-snake.svg)
-
+###
