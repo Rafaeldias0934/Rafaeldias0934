@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-Java Developer Jr<br>-Realizado com as conquistas e aprendizados alcançados!</p>
+<p align="left">-Java Developer<br>-Realizado com as conquistas e aprendizados alcançados!</p>
 
 ###
 
